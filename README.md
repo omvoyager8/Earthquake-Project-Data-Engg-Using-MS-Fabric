@@ -94,3 +94,7 @@ Earthquake events data provided by:
 - **USGS Earthquake Hazards Program**
 
 ---
+
+![Image](https://github.com/user-attachments/assets/fb52aa09-7a28-47fa-866d-1eec2e6fd91a)
+![Image](https://github.com/user-attachments/assets/9993dd57-e210-4222-9a4e-7648ce446ddc)
+![Image](https://github.com/user-attachments/assets/fb581600-5f7c-4aeb-8aa8-1574cc4576d1)
